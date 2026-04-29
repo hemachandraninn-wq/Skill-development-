@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Student Information</title>
+</head>
+<body>
+
+    <center>
+        <img src="C:\Users\dayan\Videos\232853-middle.webp" alt="image" width="300" length="300">
+    </center>
+
+    <center><h2>Student Details Form</h2></center>
+
+    <form>
+
+        <center><label>Student Name:</label><br></center>
+        <center><input type="text" name="student_name"></center><br>
+
+        <center><label>Roll Number:</label></center><br>
+        <center><input type="number" name="roll_no"></center><br>
+
+        <center><label>Class:</label></center><br>
+        <center><input type="text" name="class"></center><br>
+
+        <center><label>Percentage:</label></center
