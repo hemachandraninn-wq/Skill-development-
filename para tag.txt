@@ -1,0 +1,12 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Paragraph Example</title>
+</head>
+<body>
+
+    <p>This is a paragraph in HTML.</p>
+    <p>This is another paragraph.</p>
+
+</body>
+</html>
