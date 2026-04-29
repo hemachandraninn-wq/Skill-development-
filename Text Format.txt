@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Text Formatting</title>
+</head>
+<body>
+
+    <b>Bold</b><br>
+    <i>Italic</i><br>
+    <u>Underline</u><br>
+    <mark>Highlight</mark><br>
+    H<sub>2</sub>O<br>
+    x<sup>2</sup>
+
+</body>
+</html>
