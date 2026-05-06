@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>University Registration Form</title>
+</head>
+<body>
+
+<h2>University Admission Form</h2>
+
+<form action="submit.php" method="POST">
+
+    Name:
+    <input type="text" name="name"><br><br>
+
+    Email:
+    <input type="email" name="email"><br><br>
+
+    Password:
+    <input type="password" name="password"><br><br>
+
+    Gender:
+    <input type="radio" name="gender"> Male
+    <input type="radio" name="gender"> Female<br><br>
+
+    Department:
+    <select name="department">
+        <option>CSE</option>
+        <option>ECE</option>
+        <option>EEE</option>
+        <option>MECH</option>
+    </select><br><br>
+
+    Address:
+    <textarea name="address"></textarea><br><br>
+
+    <input type="submit" value="Register">
+
+</form>
+
+</body>
+</html>
